@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Websites on Terminal</title>
+    <link>https://blog.stormblog.online/tags/websites/</link>
+    <description>Recent content in Websites on Terminal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 05 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.stormblog.online/tags/websites/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Websites Remember You (Cookies, Sessions, and Tokens)</title>
+      <link>https://blog.stormblog.online/posts/how-websites-remember-you-cookies-sessions-and-tokens/</link>
+      <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.stormblog.online/posts/how-websites-remember-you-cookies-sessions-and-tokens/</guid>
+      <description>&lt;h2 id=&#34;-cookies--the-tiny-notes-in-your-browser&#34;&gt;🍪 &lt;strong&gt;Cookies – The Tiny Notes in Your Browser&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Imagine you walk into a candy store, and the person at the counter gives you a small &lt;strong&gt;name tag sticker&lt;/strong&gt; that says “Hi, I’m Alex!” You stick it to your shirt. The next time you walk in, they look at your sticker and go, “Hey Alex, welcome back! Your favorite candy’s in stock!”&lt;/p&gt;&#xA;&lt;p&gt;That’s kind of how &lt;strong&gt;cookies&lt;/strong&gt; work.&lt;/p&gt;&#xA;&lt;p&gt;Cookies are tiny pieces of data that websites &lt;strong&gt;store in your browser&lt;/strong&gt;. They help sites remember stuff like:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

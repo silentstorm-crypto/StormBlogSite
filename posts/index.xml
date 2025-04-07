@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Terminal</title>
+    <link>https://blog.stormblog.online/posts/</link>
+    <description>Recent content in Posts on Terminal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.stormblog.online/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Just a test</title>
+      <link>https://blog.stormblog.online/posts/test/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.stormblog.online/posts/test/</guid>
+      <description>&lt;p&gt;Please work![[wallpaperflare.com_wallpaper.jpg]]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why AI Needs So Much Data — and What It Does With It</title>
+      <link>https://blog.stormblog.online/posts/why-ai-needs-so-much-data--and-what-it-does-with-it/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.stormblog.online/posts/why-ai-needs-so-much-data--and-what-it-does-with-it/</guid>
+      <description>&lt;h2 id=&#34;-why-ai-needs-so-much-data--and-what-it-does-with-it&#34;&gt;🤖 Why AI Needs So Much Data — and What It Does With It&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;AI is kind of like a student. But instead of reading textbooks, it learns by looking at &lt;strong&gt;huge amounts of data&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;If you’ve ever wondered &lt;strong&gt;why companies collect so much data&lt;/strong&gt;, or &lt;strong&gt;why AI needs it&lt;/strong&gt;, this post will explain it in simple terms.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-1-ai-learns-by-example--lots-of-them&#34;&gt;🧠 &lt;strong&gt;1. AI Learns by Example — Lots of Them&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Imagine trying to teach a kid to recognize cats. You don’t just show them one cat and expect them to get it forever. You show them:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why Your Internet Slows Down (and How to Fix It)</title>
+      <link>https://blog.stormblog.online/posts/why-your-internet-slows-down-and-how-to-fix-it/</link>
+      <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.stormblog.online/posts/why-your-internet-slows-down-and-how-to-fix-it/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h3 id=&#34;-why-is-my-internet-so-slow&#34;&gt;🐢 “Why is my internet so slow?!”&lt;/h3&gt;&#xA;&lt;p&gt;We’ve all been there — trying to stream a video, join a Zoom call, or load a page… and it just &lt;strong&gt;lags&lt;/strong&gt;. Before you throw your router out the window, let’s break down what could actually be causing it — and how you can fix it.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-1-too-many-devices-not-enough-bandwidth&#34;&gt;🌐 &lt;strong&gt;1. Too Many Devices, Not Enough Bandwidth&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Think of your internet connection like a pizza. If it’s just you, you get the whole thing. But if your phone, TV, laptop, console, smart speaker, and sibling’s 10 open tabs are all online — you’re suddenly stuck with one slice.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How Websites Remember You (Cookies, Sessions, and Tokens)</title>
+      <link>https://blog.stormblog.online/posts/how-websites-remember-you-cookies-sessions-and-tokens/</link>
+      <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.stormblog.online/posts/how-websites-remember-you-cookies-sessions-and-tokens/</guid>
+      <description>&lt;h2 id=&#34;-cookies--the-tiny-notes-in-your-browser&#34;&gt;🍪 &lt;strong&gt;Cookies – The Tiny Notes in Your Browser&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Imagine you walk into a candy store, and the person at the counter gives you a small &lt;strong&gt;name tag sticker&lt;/strong&gt; that says “Hi, I’m Alex!” You stick it to your shirt. The next time you walk in, they look at your sticker and go, “Hey Alex, welcome back! Your favorite candy’s in stock!”&lt;/p&gt;&#xA;&lt;p&gt;That’s kind of how &lt;strong&gt;cookies&lt;/strong&gt; work.&lt;/p&gt;&#xA;&lt;p&gt;Cookies are tiny pieces of data that websites &lt;strong&gt;store in your browser&lt;/strong&gt;. They help sites remember stuff like:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Docker vs. Virtual Machines: Explained like you’re 12</title>
+      <link>https://blog.stormblog.online/posts/docker-vs-vms/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.stormblog.online/posts/docker-vs-vms/</guid>
+      <description>&lt;h2 id=&#34;-what-is-docker-aka-containers&#34;&gt;🐳 &lt;strong&gt;What is Docker? (aka Containers)&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Imagine you&amp;rsquo;re at school and every student brings their own &lt;em&gt;lunchbox&lt;/em&gt;. Inside the lunchbox is &lt;strong&gt;everything&lt;/strong&gt; they need for lunch: their sandwich, juice, spoon, napkin, maybe even a tiny dessert.&lt;/p&gt;&#xA;&lt;p&gt;That’s Docker.&lt;/p&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Docker container&lt;/strong&gt; is like a lunchbox for software. It has:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The &lt;strong&gt;application&lt;/strong&gt; (like a web server or app)&lt;/li&gt;&#xA;&lt;li&gt;The &lt;strong&gt;tools and libraries&lt;/strong&gt; it needs to run&lt;/li&gt;&#xA;&lt;li&gt;It &lt;strong&gt;doesn&amp;rsquo;t bring the whole kitchen&lt;/strong&gt; — just what it needs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;And the best part? You can take that container and give it to another computer — and it&amp;rsquo;ll run the same way, every time. Super portable. Super light.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
