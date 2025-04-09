@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on Terminal</title>
+    <link>https://blog.stormblog.online/tags/security/</link>
+    <description>Recent content in Security on Terminal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.stormblog.online/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🔐 Why 2FA (Two-Factor Authentication) Actually Works</title>
+      <link>https://blog.stormblog.online/posts/why-2fa-two-factor-authentication-_actually_-works/</link>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.stormblog.online/posts/why-2fa-two-factor-authentication-_actually_-works/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;Passwords are like the keys to your digital life — your email, bank, social media, and more. But here&amp;rsquo;s the truth: &lt;strong&gt;passwords alone aren&amp;rsquo;t enough anymore&lt;/strong&gt;. Hackers have gotten really good at guessing, stealing, or tricking you into giving up your password. That’s where &lt;strong&gt;2FA (Two-Factor Authentication)&lt;/strong&gt; comes in — and it’s a total game changer.&lt;/p&gt;&#xA;&lt;p&gt;Let’s break it down with some real-world comparisons.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-what-is-2fa&#34;&gt;🧾 What is 2FA?&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;2FA&lt;/strong&gt; stands for &lt;strong&gt;Two-Factor Authentication&lt;/strong&gt;. It&amp;rsquo;s a way of &lt;strong&gt;proving who you are using two different things&lt;/strong&gt;:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
