@@ -6,8 +6,22 @@
     <description>Recent content in Tags on Terminal</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.stormblog.online/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Servers</title>
+      <link>https://blog.stormblog.online/tags/servers/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.stormblog.online/tags/servers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Website</title>
+      <link>https://blog.stormblog.online/tags/website/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.stormblog.online/tags/website/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Authentication</title>
       <link>https://blog.stormblog.online/tags/authentication/</link>
