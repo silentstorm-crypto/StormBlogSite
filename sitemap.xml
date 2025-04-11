@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.stormblog.online/posts/</loc>
-    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
+    <loc>https://blog.stormblog.online/posts/frontend-vs-backend-vs-full-stack-whats-the-difference/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.stormblog.online/tags/servers/</loc>
-    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
+    <loc>https://blog.stormblog.online/tags/development/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.stormblog.online/posts/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.stormblog.online/tags/</loc>
-    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.stormblog.online/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.stormblog.online/tags/servers/</loc>
     <lastmod>2025-04-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.stormblog.online/tags/website/</loc>
