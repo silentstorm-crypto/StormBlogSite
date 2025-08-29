@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Terminal</title>
+    <link>https://blog.stormblog.online/posts/</link>
+    <description>Recent content in Posts on Terminal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 29 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.stormblog.online/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Test</title>
+      <link>https://blog.stormblog.online/posts/test/</link>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.stormblog.online/posts/test/</guid>
+      <description>&lt;p&gt;This is a test&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;yor%20forger%20wallpaper%202.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;kldasasldkjfas&lt;/p&gt;&#xA;&lt;p&gt;cveihfiwhfwhfklsjhfouiwe&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>👨‍💻 Frontend vs Backend vs Full-Stack: What’s the Difference?</title>
+      <link>https://blog.stormblog.online/posts/frontend-vs-backend-vs-full-stack-whats-the-difference/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.stormblog.online/posts/frontend-vs-backend-vs-full-stack-whats-the-difference/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;If you’ve ever looked at a job posting for a developer, you’ve probably seen terms like &lt;strong&gt;frontend&lt;/strong&gt;, &lt;strong&gt;backend&lt;/strong&gt;, and &lt;strong&gt;full-stack&lt;/strong&gt; thrown around. But what do they actually mean? Are these just tech buzzwords, or do they describe real roles with different responsibilities?&lt;/p&gt;&#xA;&lt;p&gt;Let’s break it down in simple language so it all makes sense — even if you’ve never written a line of code.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-what-is-frontend&#34;&gt;🖼️ What Is Frontend?&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;strong&gt;frontend&lt;/strong&gt; is everything you &lt;strong&gt;see and interact with&lt;/strong&gt; on a website or app. It’s the &lt;strong&gt;“client-side”&lt;/strong&gt;, meaning it runs in your browser.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🖥️ How Do Servers Work?</title>
+      <link>https://blog.stormblog.online/posts/how-do-servers-work/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.stormblog.online/posts/how-do-servers-work/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;Whenever you visit a website, watch a video online, or check your email, you&amp;rsquo;re interacting with something called a &lt;strong&gt;server&lt;/strong&gt;. But have you ever wondered what a server actually is? How does it make all of these things happen? And what’s the difference between a physical server and a virtual server?&lt;/p&gt;&#xA;&lt;p&gt;Let’s break it all down in simple terms!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-what-is-a-server&#34;&gt;🔑 What Is a Server?&lt;/h3&gt;&#xA;&lt;p&gt;At its core, a &lt;strong&gt;server&lt;/strong&gt; is just a &lt;strong&gt;computer&lt;/strong&gt; that provides a service to other computers (called &lt;strong&gt;clients&lt;/strong&gt;). When you type a website&amp;rsquo;s address in your browser (like &lt;a href=&#34;http://www.example.com&#34;&gt;www.example.com&lt;/a&gt;), your computer (client) sends a request to the server that hosts that website. The server then sends the information back, allowing you to see the website.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🔐 Why 2FA (Two-Factor Authentication) Actually Works</title>
+      <link>https://blog.stormblog.online/posts/why-2fa-two-factor-authentication-_actually_-works/</link>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.stormblog.online/posts/why-2fa-two-factor-authentication-_actually_-works/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;Passwords are like the keys to your digital life — your email, bank, social media, and more. But here&amp;rsquo;s the truth: &lt;strong&gt;passwords alone aren&amp;rsquo;t enough anymore&lt;/strong&gt;. Hackers have gotten really good at guessing, stealing, or tricking you into giving up your password. That’s where &lt;strong&gt;2FA (Two-Factor Authentication)&lt;/strong&gt; comes in — and it’s a total game changer.&lt;/p&gt;&#xA;&lt;p&gt;Let’s break it down with some real-world comparisons.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-what-is-2fa&#34;&gt;🧾 What is 2FA?&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;2FA&lt;/strong&gt; stands for &lt;strong&gt;Two-Factor Authentication&lt;/strong&gt;. It&amp;rsquo;s a way of &lt;strong&gt;proving who you are using two different things&lt;/strong&gt;:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🌐 Hosting On-Premises vs. Web Hosting: What&#39;s the Best Option?</title>
+      <link>https://blog.stormblog.online/posts/hosting-on-premises-vs.-web-hosting-whats-the-best-option/</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.stormblog.online/posts/hosting-on-premises-vs.-web-hosting-whats-the-best-option/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;When it comes to hosting your website or application, you have two main options: &lt;strong&gt;on-premises&lt;/strong&gt; hosting and &lt;strong&gt;web hosting&lt;/strong&gt; (often called &lt;strong&gt;cloud hosting&lt;/strong&gt;). Each has its pros and cons, and the best choice depends on your needs. Let’s break it down to help you decide which one is right for you!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-what-is-on-premises-hosting&#34;&gt;🏠 &lt;strong&gt;What is On-Premises Hosting?&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;On-premises hosting is when you &lt;strong&gt;host your website or app on your own servers&lt;/strong&gt;, located on your property (in your office or data center). You own the physical hardware and are responsible for managing it all — from the power supply to the security.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why AI Needs So Much Data — and What It Does With It</title>
+      <link>https://blog.stormblog.online/posts/why-ai-needs-so-much-data--and-what-it-does-with-it/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.stormblog.online/posts/why-ai-needs-so-much-data--and-what-it-does-with-it/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;AI is kind of like a student. But instead of reading textbooks, it learns by looking at &lt;strong&gt;huge amounts of data&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;If you’ve ever wondered &lt;strong&gt;why companies collect so much data&lt;/strong&gt;, or &lt;strong&gt;why AI needs it&lt;/strong&gt;, this post will explain it in simple terms.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-1-ai-learns-by-example--lots-of-them&#34;&gt;🧠 &lt;strong&gt;1. AI Learns by Example — Lots of Them&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Imagine trying to teach a kid to recognize cats. You don’t just show them one cat and expect them to get it forever. You show them:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why Your Internet Slows Down (and How to Fix It)</title>
+      <link>https://blog.stormblog.online/posts/why-your-internet-slows-down-and-how-to-fix-it/</link>
+      <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.stormblog.online/posts/why-your-internet-slows-down-and-how-to-fix-it/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h3 id=&#34;-why-is-my-internet-so-slow&#34;&gt;🐢 “Why is my internet so slow?!”&lt;/h3&gt;&#xA;&lt;p&gt;We’ve all been there — trying to stream a video, join a Zoom call, or load a page… and it just &lt;strong&gt;lags&lt;/strong&gt;. Before you throw your router out the window, let’s break down what could actually be causing it — and how you can fix it.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-1-too-many-devices-not-enough-bandwidth&#34;&gt;🌐 &lt;strong&gt;1. Too Many Devices, Not Enough Bandwidth&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Think of your internet connection like a pizza. If it’s just you, you get the whole thing. But if your phone, TV, laptop, console, smart speaker, and sibling’s 10 open tabs are all online — you’re suddenly stuck with one slice.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How Websites Remember You (Cookies, Sessions, and Tokens)</title>
+      <link>https://blog.stormblog.online/posts/how-websites-remember-you-cookies-sessions-and-tokens/</link>
+      <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.stormblog.online/posts/how-websites-remember-you-cookies-sessions-and-tokens/</guid>
+      <description>&lt;h2 id=&#34;-cookies--the-tiny-notes-in-your-browser&#34;&gt;🍪 &lt;strong&gt;Cookies – The Tiny Notes in Your Browser&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Imagine you walk into a candy store, and the person at the counter gives you a small &lt;strong&gt;name tag sticker&lt;/strong&gt; that says “Hi, I’m Alex!” You stick it to your shirt. The next time you walk in, they look at your sticker and go, “Hey Alex, welcome back! Your favorite candy’s in stock!”&lt;/p&gt;&#xA;&lt;p&gt;That’s kind of how &lt;strong&gt;cookies&lt;/strong&gt; work.&lt;/p&gt;&#xA;&lt;p&gt;Cookies are tiny pieces of data that websites &lt;strong&gt;store in your browser&lt;/strong&gt;. They help sites remember stuff like:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Docker vs. Virtual Machines: Explained like you’re 12</title>
+      <link>https://blog.stormblog.online/posts/docker-vs-vms/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.stormblog.online/posts/docker-vs-vms/</guid>
+      <description>&lt;h2 id=&#34;-what-is-docker-aka-containers&#34;&gt;🐳 &lt;strong&gt;What is Docker? (aka Containers)&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Imagine you&amp;rsquo;re at school and every student brings their own &lt;em&gt;lunchbox&lt;/em&gt;. Inside the lunchbox is &lt;strong&gt;everything&lt;/strong&gt; they need for lunch: their sandwich, juice, spoon, napkin, maybe even a tiny dessert.&lt;/p&gt;&#xA;&lt;p&gt;That’s Docker.&lt;/p&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Docker container&lt;/strong&gt; is like a lunchbox for software. It has:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The &lt;strong&gt;application&lt;/strong&gt; (like a web server or app)&lt;/li&gt;&#xA;&lt;li&gt;The &lt;strong&gt;tools and libraries&lt;/strong&gt; it needs to run&lt;/li&gt;&#xA;&lt;li&gt;It &lt;strong&gt;doesn&amp;rsquo;t bring the whole kitchen&lt;/strong&gt; — just what it needs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;And the best part? You can take that container and give it to another computer — and it&amp;rsquo;ll run the same way, every time. Super portable. Super light.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

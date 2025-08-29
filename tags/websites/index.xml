@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Websites on Terminal</title>
+    <link>https://blog.stormblog.online/tags/websites/</link>
+    <description>Recent content in Websites on Terminal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 08 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.stormblog.online/tags/websites/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🌐 Hosting On-Premises vs. Web Hosting: What&#39;s the Best Option?</title>
+      <link>https://blog.stormblog.online/posts/hosting-on-premises-vs.-web-hosting-whats-the-best-option/</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.stormblog.online/posts/hosting-on-premises-vs.-web-hosting-whats-the-best-option/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;When it comes to hosting your website or application, you have two main options: &lt;strong&gt;on-premises&lt;/strong&gt; hosting and &lt;strong&gt;web hosting&lt;/strong&gt; (often called &lt;strong&gt;cloud hosting&lt;/strong&gt;). Each has its pros and cons, and the best choice depends on your needs. Let’s break it down to help you decide which one is right for you!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-what-is-on-premises-hosting&#34;&gt;🏠 &lt;strong&gt;What is On-Premises Hosting?&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;On-premises hosting is when you &lt;strong&gt;host your website or app on your own servers&lt;/strong&gt;, located on your property (in your office or data center). You own the physical hardware and are responsible for managing it all — from the power supply to the security.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How Websites Remember You (Cookies, Sessions, and Tokens)</title>
+      <link>https://blog.stormblog.online/posts/how-websites-remember-you-cookies-sessions-and-tokens/</link>
+      <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.stormblog.online/posts/how-websites-remember-you-cookies-sessions-and-tokens/</guid>
+      <description>&lt;h2 id=&#34;-cookies--the-tiny-notes-in-your-browser&#34;&gt;🍪 &lt;strong&gt;Cookies – The Tiny Notes in Your Browser&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Imagine you walk into a candy store, and the person at the counter gives you a small &lt;strong&gt;name tag sticker&lt;/strong&gt; that says “Hi, I’m Alex!” You stick it to your shirt. The next time you walk in, they look at your sticker and go, “Hey Alex, welcome back! Your favorite candy’s in stock!”&lt;/p&gt;&#xA;&lt;p&gt;That’s kind of how &lt;strong&gt;cookies&lt;/strong&gt; work.&lt;/p&gt;&#xA;&lt;p&gt;Cookies are tiny pieces of data that websites &lt;strong&gt;store in your browser&lt;/strong&gt;. They help sites remember stuff like:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

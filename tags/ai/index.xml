@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on Terminal</title>
+    <link>https://blog.stormblog.online/tags/ai/</link>
+    <description>Recent content in AI on Terminal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.stormblog.online/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why AI Needs So Much Data — and What It Does With It</title>
+      <link>https://blog.stormblog.online/posts/why-ai-needs-so-much-data--and-what-it-does-with-it/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.stormblog.online/posts/why-ai-needs-so-much-data--and-what-it-does-with-it/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;AI is kind of like a student. But instead of reading textbooks, it learns by looking at &lt;strong&gt;huge amounts of data&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;If you’ve ever wondered &lt;strong&gt;why companies collect so much data&lt;/strong&gt;, or &lt;strong&gt;why AI needs it&lt;/strong&gt;, this post will explain it in simple terms.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-1-ai-learns-by-example--lots-of-them&#34;&gt;🧠 &lt;strong&gt;1. AI Learns by Example — Lots of Them&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Imagine trying to teach a kid to recognize cats. You don’t just show them one cat and expect them to get it forever. You show them:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on Terminal</title>
+    <link>https://blog.stormblog.online/tags/docker/</link>
+    <description>Recent content in Docker on Terminal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 04 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.stormblog.online/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker vs. Virtual Machines: Explained like you’re 12</title>
+      <link>https://blog.stormblog.online/posts/docker-vs-vms/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.stormblog.online/posts/docker-vs-vms/</guid>
+      <description>&lt;h2 id=&#34;-what-is-docker-aka-containers&#34;&gt;🐳 &lt;strong&gt;What is Docker? (aka Containers)&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Imagine you&amp;rsquo;re at school and every student brings their own &lt;em&gt;lunchbox&lt;/em&gt;. Inside the lunchbox is &lt;strong&gt;everything&lt;/strong&gt; they need for lunch: their sandwich, juice, spoon, napkin, maybe even a tiny dessert.&lt;/p&gt;&#xA;&lt;p&gt;That’s Docker.&lt;/p&gt;&#xA;&lt;p&gt;A &lt;strong&gt;Docker container&lt;/strong&gt; is like a lunchbox for software. It has:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The &lt;strong&gt;application&lt;/strong&gt; (like a web server or app)&lt;/li&gt;&#xA;&lt;li&gt;The &lt;strong&gt;tools and libraries&lt;/strong&gt; it needs to run&lt;/li&gt;&#xA;&lt;li&gt;It &lt;strong&gt;doesn&amp;rsquo;t bring the whole kitchen&lt;/strong&gt; — just what it needs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;And the best part? You can take that container and give it to another computer — and it&amp;rsquo;ll run the same way, every time. Super portable. Super light.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
