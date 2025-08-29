@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.stormblog.online/posts/cloud-gaming/</loc>
+    <lastmod>2025-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.stormblog.online/tags/cloud/</loc>
+    <lastmod>2025-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.stormblog.online/tags/gaming/</loc>
+    <lastmod>2025-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.stormblog.online/tags/imback/</loc>
+    <lastmod>2025-08-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.stormblog.online/posts/</loc>
     <lastmod>2025-08-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,15 +21,6 @@
     <lastmod>2025-08-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.stormblog.online/</loc>
-    <lastmod>2025-08-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.stormblog.online/tags/test/</loc>
-    <lastmod>2025-08-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.stormblog.online/posts/test-2/</loc>
-    <lastmod>2025-08-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.stormblog.online/posts/test/</loc>
     <lastmod>2025-08-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.stormblog.online/posts/frontend-vs-backend-vs-full-stack-whats-the-difference/</loc>
@@ -82,8 +85,6 @@
   </url><url>
     <loc>https://blog.stormblog.online/tags/virtual-machines/</loc>
     <lastmod>2025-04-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.stormblog.online/posts/tests/</loc>
   </url><url>
     <loc>https://blog.stormblog.online/categories/</loc>
   </url>
