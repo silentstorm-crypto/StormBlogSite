@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>🔒 The Difference Between HTTP and HTTPS (and Why the Lock Icon Matters) :: Terminal</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content=" Hey everyone 👋 — I’m back with another tech breakdown! Today, let’s talk about something you see every single time you browse the web: those four little letters at the start of a web address — HTTP or HTTPS.
+You’ve probably also noticed the lock icon 🔒 in your browser’s address bar. But what does it actually mean? And why should you care? Let’s find out.
+🌐 What is HTTP? HTTP stands for HyperText Transfer Protocol. It’s basically the set of rules your browser uses to talk to a website’s server.
+" />
+<meta name="keywords" content="" />
+
+  <meta name="robots" content="noodp" />
+
+<link rel="canonical" href="https://blog.stormblog.online/posts/the-difference-between-http-and-https/" />
+
+
+
+
+
+  
+  <link rel="stylesheet" href="https://blog.stormblog.online/css/buttons.min.86f6b4c106b6c6eb690ae5203d36b442c1f66f718ff4e8164fa86cf6c61ad641.css">
+
+  
+  <link rel="stylesheet" href="https://blog.stormblog.online/css/code.min.d529ea4b2fb8d34328d7d31afc5466d5f7bc2f0bc9abdd98b69385335d7baee4.css">
+
+  
+  <link rel="stylesheet" href="https://blog.stormblog.online/css/fonts.min.5bb7ed13e1d00d8ff39ea84af26737007eb5051b157b86fc24487c94f3dc8bbe.css">
+
+  
+  <link rel="stylesheet" href="https://blog.stormblog.online/css/footer.min.eb8dfc2c6a7eafa36cd3ba92d63e69e849e2200e0002a228d137f236b09ecd75.css">
+
+  
+  <link rel="stylesheet" href="https://blog.stormblog.online/css/gist.min.a751e8b0abe1ba8bc53ced52a38b19d8950fe78ca29454ea8c2595cf26aad5c0.css">
+
+  
+  <link rel="stylesheet" href="https://blog.stormblog.online/css/header.min.75c7eb0e2872d95ff48109c6647d0223a38db52e2561dd87966eb5fc7c6bdac6.css">
+
+  
+  <link rel="stylesheet" href="https://blog.stormblog.online/css/main.min.775ac2af004d44c22a6d000fbd1d9af529642f5cef27399d0280d180af2c2e9b.css">
+
+  
+  <link rel="stylesheet" href="https://blog.stormblog.online/css/menu.min.310d32205bdedd6f43144e3c3273c9deecd238eba5f9108db5ea96ca0cfbe377.css">
+
+  
+  <link rel="stylesheet" href="https://blog.stormblog.online/css/pagination.min.bbb986dbce00a5ce5aca0504b7925fc1c581992a4bf57f163e5d69cc1db7d836.css">
+
+  
+  <link rel="stylesheet" href="https://blog.stormblog.online/css/post.min.ad50c7f4d00e7975918f37fc74c6029e1959a40d66fb5b2c6564a8715e985573.css">
+
+  
+  <link rel="stylesheet" href="https://blog.stormblog.online/css/syntax.min.e9ab635cf918bc84b901eb65c0b2caa74c9544245e3647c1af5c129896ef276e.css">
+
+  
+  <link rel="stylesheet" href="https://blog.stormblog.online/css/terminal.min.e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css">
+
+  
+  <link rel="stylesheet" href="https://blog.stormblog.online/css/terms.min.b81791663c3790e738e571cdbf802312390d30e4b1d8dc9d814a5b5454d0ac11.css">
+
+
+
+
+
+
+
+<link rel="shortcut icon" href="https://blog.stormblog.online/favicon.png">
+<link rel="apple-touch-icon" href="https://blog.stormblog.online/apple-touch-icon.png">
+
+
+<meta name="twitter:card" content="summary" />
+
+  
+    <meta name="twitter:site" content="" />
+  
+    <meta name="twitter:creator" content="" />
+
+
+
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="🔒 The Difference Between HTTP and HTTPS (and Why the Lock Icon Matters)">
+<meta property="og:description" content=" Hey everyone 👋 — I’m back with another tech breakdown! Today, let’s talk about something you see every single time you browse the web: those four little letters at the start of a web address — HTTP or HTTPS.
+You’ve probably also noticed the lock icon 🔒 in your browser’s address bar. But what does it actually mean? And why should you care? Let’s find out.
+🌐 What is HTTP? HTTP stands for HyperText Transfer Protocol. It’s basically the set of rules your browser uses to talk to a website’s server.
+" />
+<meta property="og:url" content="https://blog.stormblog.online/posts/the-difference-between-http-and-https/" />
+<meta property="og:site_name" content="Terminal" />
+
+  <meta property="og:image" content="https://blog.stormblog.online/og-image.png">
+
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="627">
+
+
+  <meta property="article:published_time" content="2025-08-30 00:00:00 &#43;0000 UTC" />
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body>
+
+
+<div class="container">
+
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="/">
+  <div class="logo">
+    Terminal
+  </div>
+</a>
+
+    </div>
+    
+      <ul class="menu menu--mobile">
+  <li class="menu__trigger">Menu&nbsp;▾</li>
+  <li>
+    <ul class="menu__dropdown">
+      
+        
+          <li><a href="/about">About</a></li>
+        
+      
+        
+          <li><a href="/showcase">Showcase</a></li>
+        
+      
+      
+    </ul>
+  </li>
+</ul>
+
+    
+    
+  </div>
+  
+    <nav class="navigation-menu">
+  <ul class="navigation-menu__inner menu--desktop">
+    
+      
+        
+          <li><a href="/about" >About</a></li>
+        
+      
+        
+          <li><a href="/showcase" >Showcase</a></li>
+        
+      
+      
+    
+  </ul>
+</nav>
+
+  
+</header>
+
+
+  <div class="content">
+    
+<article class="post">
+  <h1 class="post-title">
+    <a href="https://blog.stormblog.online/posts/the-difference-between-http-and-https/">🔒 The Difference Between HTTP and HTTPS (and Why the Lock Icon Matters)</a>
+  </h1>
+  <div class="post-meta"><time class="post-date">2025-08-30</time></div>
+
+  
+    <span class="post-tags">
+      
+      #<a href="https://blog.stormblog.online/tags/http/">HTTP</a>&nbsp;
+      
+      #<a href="https://blog.stormblog.online/tags/https/">HTTPS</a>&nbsp;
+      
+      #<a href="https://blog.stormblog.online/tags/security/">Security</a>&nbsp;
+      
+    </span>
+  
+  
+
+
+  
+
+  <div class="post-content"><div>
+        <hr>
+<p>Hey everyone 👋 — I’m back with another tech breakdown! Today, let’s talk about something you see every single time you browse the web: those four little letters at the start of a web address — <strong>HTTP</strong> or <strong>HTTPS</strong>.</p>
+<p>You’ve probably also noticed the <strong>lock icon 🔒</strong> in your browser’s address bar. But what does it actually mean? And why should you care? Let’s find out.</p>
+<hr>
+<h2 id="-what-is-http">🌐 What is HTTP?<a href="#-what-is-http" class="hanchor" ariaLabel="Anchor">#</a> </h2>
+<p><strong>HTTP</strong> stands for <strong>HyperText Transfer Protocol</strong>. It’s basically the set of rules your browser uses to talk to a website’s server.</p>
+<p>Think of it like sending a <strong>postcard</strong>:</p>
+<ul>
+<li>
+<p>You write your message (the request).</p>
+</li>
+<li>
+<p>The mail carrier delivers it to the website’s server.</p>
+</li>
+<li>
+<p>The server writes back (the response) and sends it back to you.</p>
+</li>
+</ul>
+<p>The problem? A postcard can be read by <strong>anyone</strong> who handles it. That means if you’re using plain HTTP, your data (like login info, search terms, or form details) could be seen by hackers or snoops along the way.</p>
+<hr>
+<h2 id="-what-is-https">🔐 What is HTTPS?<a href="#-what-is-https" class="hanchor" ariaLabel="Anchor">#</a> </h2>
+<p><strong>HTTPS</strong> = <strong>HTTP + Secure (SSL/TLS encryption)</strong>.</p>
+<p>Instead of a postcard, think of sending your message in a <strong>sealed envelope</strong> with a special lock only you and the server can open. Even if someone intercepts it, they can’t read what’s inside.</p>
+<p>How it works:</p>
+<ol>
+<li>
+<p>When you connect to a site with HTTPS, your browser and the server create a <strong>secure, encrypted connection</strong>.</p>
+</li>
+<li>
+<p>All your data (like passwords, credit card numbers, or private messages) is scrambled into unreadable code.</p>
+</li>
+<li>
+<p>Only the website’s server can unscramble it.</p>
+</li>
+</ol>
+<p>That’s why you’ll see a <strong>lock icon 🔒</strong> in your browser bar — it means your connection is private and encrypted.</p>
+<hr>
+<h2 id="-why-it-matters">🚦 Why It Matters<a href="#-why-it-matters" class="hanchor" ariaLabel="Anchor">#</a> </h2>
+<ul>
+<li>
+<p><strong>Security:</strong> Without HTTPS, attackers could steal or tamper with your data.</p>
+</li>
+<li>
+<p><strong>Trust:</strong> Modern browsers mark HTTP-only sites as “Not Secure.”</p>
+</li>
+<li>
+<p><strong>SEO Boost:</strong> Google ranks HTTPS sites higher in search results.</p>
+</li>
+<li>
+<p><strong>Modern Standard:</strong> Almost all legit sites today use HTTPS by default.</p>
+</li>
+</ul>
+<hr>
+<h2 id="-quick-recap">✅ Quick Recap<a href="#-quick-recap" class="hanchor" ariaLabel="Anchor">#</a> </h2>
+<ul>
+<li>
+<p><strong>HTTP</strong> = like sending an open postcard — anyone could read it.</p>
+</li>
+<li>
+<p><strong>HTTPS</strong> = like sending a locked envelope — only the right server can open it.</p>
+</li>
+<li>
+<p>The <strong>lock icon 🔒</strong> means your connection is secure, and that’s why you should always look for it — especially when entering passwords or payment info.</p>
+</li>
+</ul>
+<hr>
+<h2 id="-conclusion">🎯 Conclusion<a href="#-conclusion" class="hanchor" ariaLabel="Anchor">#</a> </h2>
+<p>The difference between HTTP and HTTPS might just be one extra letter, but it makes all the difference in keeping your data safe. Always check for the lock icon before sharing anything sensitive online. It’s a small habit that protects you in a big way.</p>
+
+      </div></div>
+
+  
+    
+<div class="pagination">
+  <div class="pagination__title">
+    <span class="pagination__title-h">Read other posts</span>
+    <hr />
+  </div>
+  <div class="pagination__buttons">
+    
+    
+    
+      <a href="https://blog.stormblog.online/posts/cloud-gaming/" class="button inline next">
+         [<span class="button__text">🎮 I’m Back! Let’s Talk About Cloud Gaming — What It Is and How It Works</span>] &gt;
+      </a>
+    
+  </div>
+</div>
+
+
+  
+
+  
+    
+
+  
+</article>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright">
+        <span>© 2025 Powered by <a href="https://gohugo.io">Hugo</a></span>
+    
+      <span>:: <a href="https://github.com/panr/hugo-theme-terminal" target="_blank">Theme</a> made by <a href="https://github.com/panr" target="_blank">panr</a></span>
+      </div>
+  </div>
+</footer>
+
+
+
+
+
+
+<script type="text/javascript" src="/bundle.min.js"></script>
+
+
+
+
+
+  
+</div>
+
+</body>
+</html>

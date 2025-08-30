@@ -6,8 +6,15 @@
     <description>Recent content in Security on Terminal</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.stormblog.online/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🔒 The Difference Between HTTP and HTTPS (and Why the Lock Icon Matters)</title>
+      <link>https://blog.stormblog.online/posts/the-difference-between-http-and-https/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.stormblog.online/posts/the-difference-between-http-and-https/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;Hey everyone 👋 — I’m back with another tech breakdown! Today, let’s talk about something you see every single time you browse the web: those four little letters at the start of a web address — &lt;strong&gt;HTTP&lt;/strong&gt; or &lt;strong&gt;HTTPS&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;You’ve probably also noticed the &lt;strong&gt;lock icon 🔒&lt;/strong&gt; in your browser’s address bar. But what does it actually mean? And why should you care? Let’s find out.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-what-is-http&#34;&gt;🌐 What is HTTP?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;HTTP&lt;/strong&gt; stands for &lt;strong&gt;HyperText Transfer Protocol&lt;/strong&gt;. It’s basically the set of rules your browser uses to talk to a website’s server.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🔐 Why 2FA (Two-Factor Authentication) Actually Works</title>
       <link>https://blog.stormblog.online/posts/why-2fa-two-factor-authentication-_actually_-works/</link>
